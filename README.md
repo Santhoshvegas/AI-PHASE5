@@ -1,6 +1,8 @@
 # AI-PHASE5
 # Market Basket Analysis - Problem Statement and Design Thinking Process
 
+![Market Basket Analysis](https://miro.medium.com/max/2880/1*DHfQvlMVBaJCHpYmj1kmCw.png)
+
 ## Overview
 
 This repository documents the problem statement and the design thinking process applied to a Market Basket Analysis project. Market Basket Analysis is a data mining technique used to identify the relationships and associations between products that customers purchase together. This README provides insights into the problem we aimed to address and the design thinking journey that led to the development of our Market Basket Analysis solution.
@@ -143,6 +145,8 @@ This repository documents the association analysis techniques used in a Market B
 
 ## Association Analysis Techniques
 
+![Market Basket Analysis](https://miro.medium.com/v2/resize:fit:1400/1*ggp9IlswU29jHID1Ap1m2w.png)
+
 Association analysis involves finding interesting associations, correlations, or patterns within transactional data. Here, we outline the key association analysis techniques employed in our Market Basket Analysis project.
 
 ### 1. Frequent Itemsets
@@ -164,6 +168,8 @@ Association rules are if-then statements that describe the relationships between
 [Detail the specific rules generated and evaluated in your project.]
 
 ### 3. Rule Pruning and Post-processing
+
+![Market Basket Analysis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtkzl689XvCGzOAZ5a5HKcoc6S_NFALTwVNhbV876FC2yvRg-xCKMuLWmADOWIJu4USU&usqp=CAU)
 
 Pruning and post-processing techniques are applied to improve the quality of association rules and reduce redundancy:
 
