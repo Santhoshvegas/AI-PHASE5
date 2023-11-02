@@ -17,7 +17,7 @@ The problem statement serves as the foundation for our project, defining the cha
 
 ### Objectives
 
-- [List specific objectives and goals associated with solving the problem. These objectives may include increasing cross-selling, reducing stockouts, or improving store layout.]
+- [These objectives may include increasing cross-selling, reducing stockouts, or improving store layout.]
 
 ### Why is it Important?
 
